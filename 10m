@@ -1,0 +1,15 @@
+r=$(( $RANDOM % 10 )); 
+rr=$(( $RANDOM % 10 )); 
+echo "<?xml version='1.0' encoding='utf-8' standalone='yes' ?>
+<map>
+    <string name="random"></string>
+    <string name="install">8a6327b0-"$r"1fd-"$rr$rr$r$r"-b10b-1d0d3ee67e9d</string>
+    <string name="uuid">df20f8e421669c96"tk$r$rr$rr$r"523181d5f0</string>
+    <string name="fd4fe0aa9d553f705e"kj$rr$r$r"1cd31bdf1">toZINy6Z/c9QPf48666c0Uz0QVQtWteBsgo/0UiuKOGhB/x91xZ86LrK9PWYZkx/</string>
+</map>
+" > /data/system/users/0/settings_ssaid.xml
+rm -rf /data/data/com.tencent.ig/s*  &> /dev/null
+rm -rf /data/data/com.pubg.krmobile/s*  &> /dev/null
+rm -rf /data/data/com.vng.pubgmobile/s*  &> /dev/null
+rm -rf /data/data/com.rekoo.pubgm/s*  &> /dev/null
+reboot

@@ -9,7 +9,7 @@
 mkdir /data/data/com.termux/files/home/Sulphur/pytransform
 mv /data/data/com.termux/files/home/Sulphur/_pytransform.so /data/data/com.termux/files/home/Sulphur/pytransform/
 mv /data/data/com.termux/files/home/Sulphur/__init__.py /data/data/com.termux/files/home/Sulphur/pytransform/
-mv /data/data/com.termux/files/home/Sulphur/__init__.py /data/data/com.termux/files/home/Sulphur/pytransform/
+mv 
 
 echo -e "\e[93mDont Use This Program If Your Device Is Android 7 or Below"
 sleep 4

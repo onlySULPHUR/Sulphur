@@ -1,4 +1,4 @@
-UNIVERSAL ANTIBAN
+𝗨𝗡𝗜𝗩𝗘𝗥𝗦𝗔𝗟 𝗔𝗡𝗧𝗜𝗕𝗔𝗡
 
 universal Antiban Is An Antiban Program Made For Pubg Mobile For Rooted Android Devices
 
@@ -23,3 +23,7 @@ bash /data/data/com.termux/files/home/Sulphur/OT.sh
 4. When You want to Play Execute -
 
 sudo python /data/data/com.termux/files/home/Sulphur/UV.py
+
+----------------
+Telegram Channel :- https://t.me/onlySULPHUR
+----------------
